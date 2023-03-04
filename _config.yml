@@ -29,14 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Sharky7pb
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Sharky7pb
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/sharky7pb
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Sharky7pb
+  url: https://github.com/sharky7pb
+  email: 1821984081@qq.com
