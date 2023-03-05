@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title: Gitee
   url: https://gitee.com/sharky-pb/projects
-  icon: fab fa-g
+  icon: fas fa-g
 - title: GitHub
   url: https://github.com/sharky7pb/blogpb.github.io
   icon: fab fa-github
