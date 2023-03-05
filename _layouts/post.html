@@ -31,6 +31,9 @@ layout: default
     {% include post-tags.html %}
   {% endif %}
 
+  {% if %}
+    {% include comment.html %}
+  {% endif %}
   {% if jekyll.environment == "production" and site.disqus and page.comments != false %}
     {% include disqus.html %}
   {% endif %}
@@ -38,7 +41,7 @@ layout: default
 
 </article>
 
-{% include comment.html %}
+
 
 {% if site.related_posts != empty %}
 <aside class="related">
