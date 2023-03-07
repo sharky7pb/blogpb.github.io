@@ -57,11 +57,11 @@ author:
   url: https://github.com/sharky7pb
   email: 1821984081@qq.com
 
-include:
-  - [_layouts]
-  - [_data]
-  - [_includes]
-  - [_posts]
-  - [_sass]
+#include:
+#  - [_layouts]
+#  - [_data]
+#  - [_includes]
+#  - [_posts]
+#  - [_sass]
 
 
