@@ -1,7 +1,7 @@
 # Setup
 title: Sharky7pb的博客
 description: 道阻且长，行之将至。
-url: https://github.com/sharky7pb/blogpb.github.io
+url:  https://sharky-pb.gitee.io/blogpb.github.io
 avatar: /pic1.jpeg
 paginate: 5
 permalink: pretty
@@ -41,7 +41,7 @@ lang: en
 
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 
 # Options
 
@@ -56,7 +56,7 @@ author:
   name: Sharky7pb
   url: https://github.com/sharky7pb
   email: 1821984081@qq.com
-
+baseurl: "/blogpb.github.io" # the subpath of your site, e.g. /blog
 #include:
 #  - [_layouts]
 #  - [_data]
