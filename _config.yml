@@ -56,7 +56,7 @@ author:
   name: Sharky7pb
   url: https://github.com/sharky7pb
   email: 1821984081@qq.com
-baseurl: "/blogpb.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "/blogpb.github.io" # the subpath of your site, e.g. /blog
 #include:
 #  - [_layouts]
 #  - [_data]
